@@ -1,0 +1,3 @@
+1.-bootJar - construir el jar
+2.java -jar build/libs/market-1.0.jar - ejecutar el jar
+3.-java -jar -Dspring.profiles.active=pdn build/libs/market-1.0.jar Ejecutar el jar pero con entorno de prod
